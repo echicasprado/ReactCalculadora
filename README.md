@@ -17,5 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # Librerias utilizadas
 yarn add -D vite-plugin-pwa
+<br>
 yarn add workbox-window
+<br>
 yarn add prop-types
